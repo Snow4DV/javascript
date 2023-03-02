@@ -4017,3 +4017,5 @@ We encourage you to fork this guide and change the rules to fit your team’s st
 
 # };
 # Additional info
+- This is first piece of important info
+- This is second piece of important info
