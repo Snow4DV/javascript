@@ -12,11 +12,11 @@ This guide is available in other languages too. See [Translation](#translation)
 
 List of Style Guides
 
-  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
+  - [ES5 (Deprecated)](https://www.github.com/airbnb/javascript/tree/es5-deprecated/es5)
   - [React](react/)
   - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](https://github.com/airbnb/css)
-  - [Ruby lang](https://github.com/airbnb/ruby)
+  - [CSS & Sass](https://www.github.com/airbnb/css)
+  - [Ruby lang](https://www.github.com/airbnb/ruby)
 
 ## Table of Contents
 
